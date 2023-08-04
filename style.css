@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+}
+header{
+    background-color: black;
+    color: white;
+    height: 100px;
+    padding: 35px;
+}
+ul li{
+    display: inline;
+    padding: 30px;
+}
+ul li a {
+    color: yellow;
+    text-decoration: none;
+}
+#home img{
+    height: 240px;
+    width: 240px;
+    border-radius: 50%;
+}
+#skills
+{
+    background-color: antiquewhite;
+}
+#portfolio
+{
+    background-color: rgb(214, 214, 77);
+}
+#contact
+{
+    background-color: rgb(45, 148, 177);
+    text-decoration: none;
+}
+footer{
+    text-align: center;
+    color: white;
+    background-color: rgb(32, 23, 23);
+}
